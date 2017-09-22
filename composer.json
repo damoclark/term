@@ -10,17 +10,17 @@
 		{
 			"name": "Damien Clark",
 			"email": "damo.clarky@gmail.com",
-			"homepage": "http://damos.world",
+			"homepage": "https://damos.world",
 			"role": "Creator, Developer"
 		},
 		{
 			"name": "Colin Beer",
 			"email": "colinwbeer@gmail.com",
-			"homepage": "http://beerc.worldpress.com",
+			"homepage": "https://beerc.worldpress.com",
 			"role": "Creator, Developer"
 		}
 	],
 	"support": {
-		"email": "damo.clarky@gmail.com",
+		"email": "damo.clarky@gmail.com"
 	}
 }
